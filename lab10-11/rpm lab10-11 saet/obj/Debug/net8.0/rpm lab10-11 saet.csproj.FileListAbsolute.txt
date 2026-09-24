@@ -1,0 +1,15 @@
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\bin\Debug\net8.0\rpm lab10-11 saet.exe
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\bin\Debug\net8.0\rpm lab10-11 saet.deps.json
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\bin\Debug\net8.0\rpm lab10-11 saet.runtimeconfig.json
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\bin\Debug\net8.0\rpm lab10-11 saet.dll
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\bin\Debug\net8.0\rpm lab10-11 saet.pdb
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.AssemblyInfoInputs.cache
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.AssemblyInfo.cs
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.csproj.CoreCompileInputs.cache
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.sourcelink.json
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.dll
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\refint\rpm lab10-11 saet.dll
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.pdb
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\rpm lab10-11 saet.genruntimeconfig.cache
+C:\Users\413\Documents\Git\Saetov-Yaroslav\lab 10-11\rpm lab10-11 saet\rpm lab10-11 saet\obj\Debug\net8.0\ref\rpm lab10-11 saet.dll
