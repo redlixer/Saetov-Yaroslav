@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Documents\\Git\\Saetov-Yaroslav\\rpm lab 30.09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C627B9-DA46-0559-31AC-6A8793AC26FA}|rpm lab 30.09\\rpm lab 30.09.csproj|c:\\users\\413\\documents\\git\\saetov-yaroslav\\rpm lab 30.09\\rpm lab 30.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C627B9-DA46-0559-31AC-6A8793AC26FA}|rpm lab 30.09\\rpm lab 30.09.csproj|solutionrelative:rpm lab 30.09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\Git\\Saetov-Yaroslav\\rpm lab 30.09\\rpm lab 30.09\\Program.cs",
+              "RelativeDocumentMoniker": "rpm lab 30.09\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\Git\\Saetov-Yaroslav\\rpm lab 30.09\\rpm lab 30.09\\Program.cs",
+              "RelativeToolTip": "rpm lab 30.09\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:50:32.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
