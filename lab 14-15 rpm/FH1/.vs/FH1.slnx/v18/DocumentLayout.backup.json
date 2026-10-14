@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\FH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A1A3-14E9-4CAD-B1FF-E94B947C1291}|FH2\\FH2.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\lab 14-15 rpm\\fh1\\fh2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A1A3-14E9-4CAD-B1FF-E94B947C1291}|FH2\\FH2.csproj|solutionrelative:fh2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C25926-7266-420E-A042-6E4DAC7821C1}|FH1\\FH1.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\lab 14-15 rpm\\fh1\\fh1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C25926-7266-420E-A042-6E4DAC7821C1}|FH1\\FH1.csproj|solutionrelative:fh1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA8D848-0918-41F5-A2D1-CEEAA7C1CDDB}|ROMA\\ROMA.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\lab 14-15 rpm\\fh1\\roma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA8D848-0918-41F5-A2D1-CEEAA7C1CDDB}|ROMA\\ROMA.csproj|solutionrelative:roma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\FH1\\ROMA\\Program.cs",
+              "RelativeDocumentMoniker": "ROMA\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\FH1\\ROMA\\Program.cs",
+              "RelativeToolTip": "ROMA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:25:27.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\FH1\\FH2\\Program.cs",
+              "RelativeDocumentMoniker": "FH2\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\FH1\\FH2\\Program.cs*",
+              "RelativeToolTip": "FH2\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:20:58.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\FH1\\FH1\\Program.cs",
+              "RelativeDocumentMoniker": "FH1\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\FH1\\FH1\\Program.cs",
+              "RelativeToolTip": "FH1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:19:39.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

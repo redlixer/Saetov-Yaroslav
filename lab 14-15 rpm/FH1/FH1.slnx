@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FH1/FH1.csproj" />
+  <Project Path="FH2/FH2.csproj" />
+  <Project Path="ROMA/ROMA.csproj" />
+</Solution>

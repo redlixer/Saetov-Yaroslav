@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PROMET": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
