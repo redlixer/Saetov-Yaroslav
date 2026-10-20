@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohqLV4a8wUg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 14-15 rpm\\rpm 14-15\\rpm 14-15\\rpm 14-15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\413\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\bin\Debug\net8.0\16-17.exe
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\bin\Debug\net8.0\16-17.deps.json
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\bin\Debug\net8.0\16-17.runtimeconfig.json
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\bin\Debug\net8.0\16-17.dll
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\bin\Debug\net8.0\16-17.pdb
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.AssemblyInfoInputs.cache
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.AssemblyInfo.cs
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.csproj.CoreCompileInputs.cache
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.sourcelink.json
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.dll
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\refint\16-17.dll
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.pdb
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\16-17.genruntimeconfig.cache
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\lab 16-17 rpm\16-17\16-17\obj\Debug\net8.0\ref\16-17.dll
