@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\quality_check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\quality_check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\brigade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\brigade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\order_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\order_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\bd v c#\\mebel_store\\mebel_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9FD03A-10B9-A4D5-4086-2FC908C8CA96}|mebel_store\\mebel_store.csproj|solutionrelative:mebel_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quality_check.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Quality_check.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Quality_check.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Quality_check.cs",
+              "RelativeToolTip": "mebel_store\\Quality_check.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:20:58.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Employee.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Employee.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Employee.cs",
+              "RelativeToolTip": "mebel_store\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:19:21.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Material.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Material.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Material.cs",
+              "RelativeToolTip": "mebel_store\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:17:06.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brigade.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Brigade.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Brigade.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Brigade.cs",
+              "RelativeToolTip": "mebel_store\\Brigade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:15:54.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Operation.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Operation.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Operation.cs",
+              "RelativeToolTip": "mebel_store\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:13:35.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Product.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Product.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Product.cs",
+              "RelativeToolTip": "mebel_store\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:10:52.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order_.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Order_.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Order_.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Order_.cs",
+              "RelativeToolTip": "mebel_store\\Order_.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:05:44.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Client.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Client.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Client.cs",
+              "RelativeToolTip": "mebel_store\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:02:53.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Program.cs",
+              "RelativeDocumentMoniker": "mebel_store\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\bd v c#\\mebel_store\\mebel_store\\Program.cs",
+              "RelativeToolTip": "mebel_store\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:02:44.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
