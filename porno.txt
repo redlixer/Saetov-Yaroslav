@@ -1,0 +1,16 @@
+string[] strings = { "шишки ", "ваась", null, "", " свяяязь" };
+
+List<string> strings1 = new List<string>();
+
+foreach (string s in strings)
+{
+    if (s != null)
+    {
+        strings1.Add(s);
+    }
+}
+Console.Write("новый List: ");
+foreach (string s in strings)
+{
+    Console.Write(s);
+}
