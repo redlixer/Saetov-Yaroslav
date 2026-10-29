@@ -1,0 +1,16 @@
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\bin\Debug\net10.0\rpm 21-22.exe
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\bin\Debug\net10.0\rpm 21-22.deps.json
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\bin\Debug\net10.0\rpm 21-22.runtimeconfig.json
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\bin\Debug\net10.0\rpm 21-22.dll
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\bin\Debug\net10.0\rpm 21-22.pdb
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.AssemblyInfoInputs.cache
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.AssemblyInfo.cs
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.csproj.CoreCompileInputs.cache
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.sourcelink.json
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.dll
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\refint\rpm 21-22.dll
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.pdb
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.genruntimeconfig.cache
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\ref\rpm 21-22.dll
+C:\Users\413\Documents\GitHub\Saetov-Yaroslav\rpm 21-22\rpm 21-22\rpm 21-22\obj\Debug\net10.0\rpm 21-22.csproj.Up2Date

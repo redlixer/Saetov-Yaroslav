@@ -18,7 +18,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "18-19\\Program.cs",
               "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 18-19 rpm\\18-19\\18-19\\Program.cs",
               "RelativeToolTip": "18-19\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T09:13:09.566Z",
               "EditorCaption": ""
