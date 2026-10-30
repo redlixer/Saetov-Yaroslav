@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\lab 16-17 rpm\\16-17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF24ED11-EF58-4C86-BB92-0827B0078F91}|16-17\\16-17.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\lab 16-17 rpm\\16-17\\16-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF24ED11-EF58-4C86-BB92-0827B0078F91}|16-17\\16-17.csproj|solutionrelative:16-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{759C1685-7A81-A058-95E8-F79E46C8C0D7}|16-17\\16-17.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\lab 16-17 rpm\\16-17\\16-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759C1685-7A81-A058-95E8-F79E46C8C0D7}|16-17\\16-17.csproj|solutionrelative:16-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
