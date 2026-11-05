@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\rpm 21-22\\rpm 21-22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95378C43-6AA4-4D80-A59F-A9DAF2CA880A}|rpm 21-22\\rpm 21-22.csproj|c:\\users\\413\\documents\\github\\saetov-yaroslav\\rpm 21-22\\rpm 21-22\\rpm 21-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95378C43-6AA4-4D80-A59F-A9DAF2CA880A}|rpm 21-22\\rpm 21-22.csproj|solutionrelative:rpm 21-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\rpm 21-22\\rpm 21-22\\rpm 21-22\\Program.cs",
+              "RelativeDocumentMoniker": "rpm 21-22\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\Saetov-Yaroslav\\rpm 21-22\\rpm 21-22\\rpm 21-22\\Program.cs",
+              "RelativeToolTip": "rpm 21-22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T03:28:05.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
