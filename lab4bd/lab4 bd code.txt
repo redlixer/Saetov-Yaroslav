@@ -1,0 +1,115 @@
+create table client (
+id serial primary key,
+last_name varchar(100),
+first_name varchar(100),
+email varchar (100)
+);
+
+create table order_ (
+id serial primary key,
+client_id serial,
+deadline date,
+delivery_address varchar(100),
+status varchar(100)
+);
+
+create table product(
+id serial primary key,
+order_id serial,
+title varchar(100),
+size_ varchar(100),
+price decimal,
+finish varchar(100)
+);
+
+
+create table operation (
+id serial primary key,
+product_id serial,
+title varchar(100),
+seq_number int,
+planned_date date,
+actual_date date
+);
+
+create table brigade (
+id serial primary key,
+brigade_number int,
+specialization varchar(100)
+);
+
+create table material (
+id serial primary key,
+product_id serial,
+title varchar(100),
+unit varchar(100),
+planed_qty decimal,
+actual_qty decimal
+);
+
+create table employee (
+id serial primary key,
+last_name varchar(100),
+first_name varchar(100),
+position varchar(100)
+);
+
+create table quality_check (
+id serial primary key,
+product_id serial,
+employee_id serial,
+check_date date,
+result varchar(100)
+);
+
+-----------------------------------------------------------------------------------------------------
+
+
+insert into client (last_name, first_name, email)
+values
+('Золо', 'Иван', 'ivan@example.org'),
+('Петрова', 'Мария', 'maria@example.org');
+
+insert into order_ (deadline, delivery_address , status)
+values
+('20.04.2026', 'ул. Горького, 5', 'в работе'),
+('25.04.2026', 'пр. Мира, 12', 'в работе');
+
+insert into product  (title, size_ , finish, price)
+values
+('Шкаф-купе «Пирожок»', '200×80×60', 'белый', '25000'),
+('Шкаф-купе «Пирожок»', '200×80×60', 'белый', '25000'),
+('Кровать «Аэродром»»', '180×200', 'дуб', ' 18000');
+
+insert into brigade (specialization)
+values
+('раскрой и сборока'),
+('окраска');
+
+insert into operation (planned_date, actual_date)
+values 
+('10.04.2026','10.04.2026'),
+('12.04.2026','12.04.2026'),
+('11.04.2026','12.04.2026'),
+('15.04.2026','15.04.2026');
+
+insert into material (title, unit , planed_qty, actual_qty)
+values
+('ЛСДП белый', 'м^3', '4.2', '4.1'),
+('Кромка ПВХ', 'м', '12.0', '10.0'),
+('ЛДСП белый', 'м^3', '4.2', '4.1');
+
+insert into employee (last_name, first_name, position)
+values
+('Темный', 'Андрей', 'Контролер'),
+('Светлый', 'Максим', 'Контролер');
+
+insert into quality_check (check_date, result)
+values
+('13.04.2026', 'Замечания'),
+('14.04.2026', 'Успешно'),
+('16.04.2026', 'Успешно');
+
+
+
+
